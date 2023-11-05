@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Michele Sezgin"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Data Science Intern, Baseball Operations"
   location         : "Seattle, WA"
   employer         : "Seattle Mariners"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "michelesezgin@gmail.com
   researchgate     :  
   uri              :
