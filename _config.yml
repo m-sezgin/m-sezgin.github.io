@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michele Sezgin"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "Data Science Intern, Baseball Operations"
   location         : "Seattle, WA"
   employer         : "Seattle Mariners"
