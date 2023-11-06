@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele-Sezgin"
+title                    : "Michele Sezgin"
 title_separator          : "-"
 name                     : &name "Michele Sezgin"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "michele-sezgin"
   orcid            : "https://orcid.org/0009-0006-8655-9439"
   pinterest        :
   soundcloud       :
